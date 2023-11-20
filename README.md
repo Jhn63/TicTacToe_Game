@@ -1,10 +1,10 @@
 # TicTacToe_Game
 ## A Simple Tic-tac-Toe game for two players using Java Swing
 
-The game works with a turn-based shifts, it ends when 3 figures are
-line up in vertical, horizontal, or diagonal. The game ends in even
+The game works with a turn-based shift, it ends when 3 figures are
+lined up vertically, horizontally, or diagonally. The game can end even
 if there's no more spot available and none of the three previous scenarios
-could be done
+could be achieved
 
 ![screenshot](shoot.png)
 
